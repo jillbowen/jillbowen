@@ -11,8 +11,8 @@
 #### Garden Planner - [Frontend Repo](https://github.com/jillbowen/garden_planner_frontend) | [Demo](https://youtu.be/CWjpjEMqM34)
 🌻 This Javascript app allows the user to “plant” a digital version of a small garden to help keep track of what's growing, and how to care for it.
 
-#### A Pirate’s Life - [Repo](https://github.com/jillbowen/A-Pirates-Life) | [Demo](https://youtu.be/90WMpGjSk6c)
-🏴‍☠️ This Ruby on Rails app allows Pirates to save information about the treasure maps they have, such as a secret hiding place, or booby-traps encountered on their search for buried treasure. 
+#### Vinyl Records - [Repo](https://github.com/jillbowen/Vinyl_Records) | [Demo](https://youtu.be/rkNZvQ5shz4)
+:musical_keyboard: This Sinatra Ruby app is the perfect place for users to keep a digital record of their prized vinyl collection. 
 
 
 ## Drop me a line 📨
